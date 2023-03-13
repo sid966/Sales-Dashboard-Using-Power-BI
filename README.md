@@ -1,6 +1,6 @@
 # Sales-Dashboard-Using-Power-BI
 
-In this project, i have made an interactive Power BI Sales Dashboard on sales data and found some insights from the data. In order to build the dashboard as per the requirements, ETL process has been performed. Power query was used to clean and transform the data and DAX was also used for creating and calculating the measures.
+In this project, i have worked on creating sales DashBoard using POWER BI on sales data and tried to show insights from the data. On the way of creating this DashBoard,i have performed ETL operations on data as per the need . Power query was also used to clean and transform the data and DAX was also used for creating and calculating the measures.
 
 Some of the steps in data cleaning:
 
